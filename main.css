@@ -188,7 +188,7 @@ padding-left:35px;
   	font-size:40px;
   }
   .trending{
-  	background-image: url("images/trending.jpg");
+  	background-image: url("trending.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -355,7 +355,7 @@ transition-delay:.2s;
   fill: rgb(105, 103, 103);  
   }
   .newarrival{
-    background-image: url("images/new.jpg");
+    background-image: url("new.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
