@@ -113,6 +113,10 @@ letter-spacing: .5px;
 .text{
 	color:white;
 }
+.branch-text{
+  color:white;
+  padding-left:13px;
+}
 .p-1000{
 color:white;
 padding-left:16px;
@@ -327,6 +331,15 @@ transition-delay:.2s;
 .trending-products{
   font-family: 'Berkshire Swash', cursive;
   color:white;
+  padding-top:15px;
+  font-size:45px;
+    text-decoration: underline;
+      padding-bottom:10px;
+      margin-left:-10px;
+}
+.popular-brands{
+  font-family: 'Berkshire Swash', cursive;
+  color:black;
   padding-top:15px;
   font-size:45px;
     text-decoration: underline;
